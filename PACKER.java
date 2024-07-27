@@ -7,7 +7,7 @@ class PACKER
     {
         Scanner sobj = new Scanner(System.in);
 
-        System.out.println("------- Marvellous Packer Unpacker CUI Module -------");
+        System.out.println("------- Packer Unpacker CUI Module -------");
 
         System.out.println("Enter the name of Directory that you want to open : ");
         String FolderName = sobj.nextLine();
