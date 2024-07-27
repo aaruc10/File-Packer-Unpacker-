@@ -18,7 +18,7 @@ class UNPACKER
         int iCount = 0;
         
         System.out.println("-----------------------------------------------------");
-        System.out.println("------- Marvellous Packer Unpacker CUI Module -------");
+        System.out.println("--------------Packer Unpacker CUI Module ------------");
         System.out.println("-----------------------------------------------------");
 
         System.out.println("---------------- Unpacking Activity -----------------");
