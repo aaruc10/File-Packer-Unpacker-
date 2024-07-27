@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class program530
+class PACKER
 {
     public static void main(String Arg[]) throws Exception
     {
